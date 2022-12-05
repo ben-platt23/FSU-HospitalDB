@@ -1,5 +1,5 @@
 # FSU-HospitalDB
-## Author: Ben Platt
+Author: Ben Platt
 
 ## About
 A semester long project done in MySQL. This is a relational database that can be used by a hospital to keep track of patients, doctors, guardians, treatments, and the hospital itself.
